@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(228, 227, 227);
+}
+.navbar-background{
+    background-color: #676767 !important;
+}
+.slide1{
+    height: 400px !important;
+    object-fit: cover !important;
+    object-position: 0 -80px;
+}
+.slide2{
+    height: 400px !important;
+    object-fit: cover !important;
+    object-position: 0 -100px;
+}
+.slide3{
+    height: 400px !important;
+    object-fit: cover !important;
+    object-position: 0 -200px;
+}
+
+.slide4{
+    height: 400px !important;
+    object-fit: cover !important;
+    object-position: 0 -100px;
+}
+
